@@ -1,3 +1,4 @@
+/*
 import styles from "./index.module.css";
 
 export default function ContactForm() {
@@ -41,3 +42,4 @@ export default function ContactForm() {
     </form>
   );
 }
+  */

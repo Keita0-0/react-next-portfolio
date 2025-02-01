@@ -1,3 +1,4 @@
+/*
 "use server";
 
 function validateEmail(email: string) {
@@ -102,3 +103,4 @@ export async function createContactData(_prevState: any, formData: FormData) {
 
   return { status: "success", message: "OK" };
 }
+*/
