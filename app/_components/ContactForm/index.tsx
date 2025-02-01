@@ -3,7 +3,7 @@
 import { createContactData } from '@/app/_actions/contact';
 import { useFormState } from 'react-dom';
 import { sendGAEvent } from '@next/third-parties/google';
-import styles from './index.module.css';
+import styles from './inex.module.css';
 
 const initialState = {
   status: '',
